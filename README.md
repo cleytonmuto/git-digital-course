@@ -3,3 +3,4 @@
 ## Salvando modificações no Git
 
 * uso do comando restore
+* novo comando: git pull
