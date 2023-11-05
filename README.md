@@ -4,3 +4,4 @@
 
 * uso do comando restore
 * novo comando: git pull
+* novo comando: git fetch
